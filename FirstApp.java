@@ -130,5 +130,4 @@ public class FirstApp {
         }
         else System.out.println("Год " + a + " не високосный");
     }
-
 }
